@@ -1,6 +1,6 @@
 import React from 'react';
 
-const hello=()=>{
+const hell=()=>{
     return(
         <h1>Hello</h1>
     )
